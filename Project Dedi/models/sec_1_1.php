@@ -3,11 +3,11 @@
 
     require_once "../database/query.php";
 
-    class Quiz extends Query {
+    class Sec_1_1 extends Query {
        protected $table = "quiz";   
     }
 
-    $quiz = new Quiz();
+    $sec_1_1 = new Sec_1_1();
 
 
 ?>
